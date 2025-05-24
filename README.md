@@ -26,8 +26,7 @@ This is a simple React app that allows users to submit feedback and store it usi
 
 ## 🚀 How to Run the Project
 
-### 1. Clone the Repository
-
+1. Clone the Repository
 
 git clone https://github.com/bhavini1105/Session-Storage.git
 cd Session-Storage
@@ -57,3 +56,4 @@ Session-Storage/
 │   └── Feedback.jsx
 ├── package.json
 └── README.md
+
