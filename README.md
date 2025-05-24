@@ -50,10 +50,16 @@ SessionStorage / LocalStorage (for persistent feedback saving)
 
 Session-Storage/
 ├── public/
+
 ├── src/
+
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 │   └── Feedback.jsx
+
 ├── package.json
+
 └── README.md
 
