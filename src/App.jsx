@@ -14,6 +14,7 @@ function App() {
       </Routes>
       <div className="container">
         <h1 className='mt-5'>LocalBox Miner</h1>
+        <h6>Session & Local Storage </h6>
       </div>
     </>
   )
