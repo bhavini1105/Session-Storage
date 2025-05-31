@@ -12,6 +12,9 @@ function App() {
         <Route path="/student" element={<Form />} />
         <Route path="/feedback" element={<Feedback />} />
       </Routes>
+      <div className="container">
+        <h1 className='mt-5'>LocalBox Miner</h1>
+      </div>
     </>
   )
 }
